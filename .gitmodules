@@ -1,0 +1,3 @@
+[submodule "HoldingsScraper"]
+	path = HoldingsScraper
+	url = https://github.com/MarcusLkc/HoldingsScraper.git
